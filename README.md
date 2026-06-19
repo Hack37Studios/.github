@@ -139,7 +139,8 @@ If you're interested in helping improve our projects:
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hack37Studios&theme=github-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jack91759&theme=github-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Davey381&theme=github-dark" alt="Activity Graph" />
 </p>
 
 <p align="center">
